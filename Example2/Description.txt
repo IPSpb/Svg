@@ -1,0 +1,3 @@
+Генерация svg файла, работающая на сервере, посредством утилиты phantomjs(возможность работать с WebKit из консоли используя JavaScript и без браузера.)
+Для запуска на windows открыть cmd.exe
+> phantomjs js\generator.js > result.svg
